@@ -1,0 +1,21 @@
+<resources>
+    <!-- Name of The App -->
+    <string name="app_name">Popular Movies App Stage1</string>
+    <!-- Name of the movie activity -->
+    <string name="movie_activity_name">Movie Details</string>
+    <!-- Menu Title -->
+    <string name="sortBy">Sort By</string>
+    <!-- Sub menu title -->
+    <string name="popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <!-- Content describtion for movie poster -->
+    <string name="movie_poster">Movie\'s Poster</string>
+
+    <!-- Release Date for movie-->
+    <string name="release_date">Release Date</string>
+
+    <!-- Average Vote -->
+    <string name="vote_average">Votes</string>
+
+    <string name="no_internet_connection">No internet connection</string>
+</resources>
